@@ -3,7 +3,7 @@
   <ProjectSession>
     <PathDelim Value="\"/>
     <Version Value="11"/>
-    <BuildModes Active="Release"/>
+    <BuildModes Active="Default"/>
     <Units Count="4">
       <Unit0>
         <Filename Value="taxcalc.lpr"/>
